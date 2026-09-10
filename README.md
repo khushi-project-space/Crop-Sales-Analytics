@@ -5,7 +5,9 @@ A comprehensive data analytics and visualization solution built using **Microsof
 ---
 
 ## 📸 Dashboard Preview
-Screenshot 2026-09-10 110742.png
+
+![Crop Sales Analytics Dashboard](Screenshot%202026-09-10%20110742.png)
+
 ---
 
 ## 📊 Project Overview
@@ -13,7 +15,6 @@ Screenshot 2026-09-10 110742.png
 This dashboard transforms raw agricultural sales data into actionable business intelligence. It provides deep visibility into financial metrics, supply chain volumes, and operational performance across different villages, crops, and payment methods.
 
 ### Key Performance Indicators (KPIs)
-
 * **Total Revenue:** ₹1,424,247,3... (Over ₹1.42 Billion total transaction value)
 * **Total Orders:** 600
 * **Total Quantity Sold:** 1,502,178 kg (~1.5 Million kg)
